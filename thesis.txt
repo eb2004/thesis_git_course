@@ -1,3 +1,4 @@
 #T My thesis is a disaster...
 # HELP ME!
 #My name is Stelios Boci
+My email is eb2004@bath.ac.uk
